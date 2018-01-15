@@ -2,7 +2,7 @@
 # gulp-less-dynamic-variables
 dynamic variables for less
 
-we cae use this package to dynamic add less variables
+we can use this package to dynamic add less variables
 
 
 <pre>
